@@ -1,0 +1,1 @@
+FieldML is a serialisation format and an API and an implementation of the API.  It focuses on representing finite element meshes, and fields on meshes.
